@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'blogs',
     'crispy_forms',
     'crispy_bootstrap4',
+    'assignments',
     'dashboards',
 ]
 
