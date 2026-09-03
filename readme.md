@@ -13,6 +13,7 @@ and interact through comments.
 
 The project also includes a dashboard with role-based access control for managing users, 
 categories, and blog posts.
+livedemo url - https://django-blog-project-y3mc.onrender.com
 
 ## ✨ Key Features
 
